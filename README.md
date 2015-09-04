@@ -19,7 +19,7 @@ This is a web project having interface to write message and submit to the server
 8. Insert the message and submit
 
 
-####This can be import into the Eclipse or STS by following steps: 
+####This can be imported into the Eclipse or STS by following steps: 
 1. clone the repository
 2. import the project as maven project
 3. integrate Tomcat to Eclipse.STS or any other app server
