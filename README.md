@@ -8,6 +8,7 @@ This is a web project having interface to write message and submit to the server
 - Active MQ 5.12.0 (currently tested with version 5.12, can work on other version)
 
 ##Setup & Run
+####Without IDE
 1. Clone the repository
 2. navigate to the MQ-Task directory (project home directory)
 3. Build by using maven (mvn clean install)
@@ -18,9 +19,7 @@ This is a web project having interface to write message and submit to the server
 8. Insert the message and submit
 
 
-OR
-
-This can be import into the Eclipse or STS by following steps
+####This can be import into the Eclipse or STS by following steps: 
 1. clone the repository
 2. import the project as maven project
 3. integrate Tomcat to Eclipse.STS or any other app server
