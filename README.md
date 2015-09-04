@@ -16,7 +16,10 @@ This is a web project having interface to write message and submit to the server
 6. Deploy the war file to server
 7. Open the application in browser e.g http://localhost:8080/mq
 8. Insert the message and submit
+
+
 OR
+
 This can be import into the Eclipse or STS by following steps
 1. clone the repository
 2. import the project as maven project
